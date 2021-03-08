@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else {
             textParabens.setText("Faça sua Aposta primeiro!");
+
         }
 
     }
